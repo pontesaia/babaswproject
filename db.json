@@ -1,0 +1,68 @@
+{
+  "waffles": [
+    {
+      "name": "Classic Crispy Waffles",
+      "image": "images/classic.jpg",
+      "description": "The secret to these super-crispy waffles is using a little vegetable shortening. Make a large batch on the weekend, then grab and reheat on a rushed morning.",
+      "cost": 8,
+      "featured": false,
+    },
+    {
+      "name": "Chicken and Waffles",
+      "image": "images/chicken.jpg",
+      "description": "A topping of fried chicken might be the only way to improve upon our classic, crispy waffles. Crunchy on the outside, our fried chicken gets its moist, tender insides from a buttermilk brine with hints of paprika, hot sauce and cayenne. ",
+      "cost": 8,
+      "featured": false,
+    },
+    {
+      "name": "Thanksgiving Waffles",
+      "image": "images/cheese.jpg",
+      "description": "Giving thanks for these yummy Waffles! Cracking eggs onto a well-greased waffle iron will give you perfectly cooked, intact sunny-side up eggs, complete with crispy, lacy edges. Break the yolks for a gooey topping to these Gruyere-and-ham-laden waffles.",
+      "cost": 8,
+      "featured": false,
+    },
+    {
+      "name": "Buttermilk Corn Waffles",
+      "image": "images/buttermilk.jpg",
+      "description": "A summery combination of corn and berries makes these rich, crispy-edged waffles stand out. They would easily work as savory treats, too, topped with a crab cake or fried shrimp and drizzled with remoulade sauce.",
+      "cost": 8,
+      "featured": false,
+    },
+    {
+      "name": "Sweet Potato Waffles with Marshmallows",
+      "image": "images/potato.jpg",
+      "description": "We topped dense, sweet potato waffles with mini marshmallows and maple syrup for a fun twist on the classic casserole. ",
+      "cost": 8,
+      "featured": false,
+    },
+    {
+      "name": "Multigrain Waffles",
+      "image": "images/multigrain.jpg",
+      "description": "These slightly nutty waffles are packed with three different grains. Top with yogurt and fruit preserves for a hearty, healthy start to your morning. ",
+      "cost": 8,
+      "featured": false,
+    },
+    {
+      "name": "Pumpkin-Chipotle Waffles",
+      "image": "images/pumpkin.jpg",
+      "description": "We serve these sweet and spicy Southwestern-inspired waffles with an orange- and cayenne-infused maple syrup for a citrus kick.",
+      "cost": 8,
+      "featured": false,
+    },
+    {
+      "name": "Crisp and Airy Gluten-Free Waffles",
+      "image": "images/glutenf.jpg",
+      "description": "Cracking eggs onto a well-greased waffle iron will give you perfectly cooked, intact sunny-side up eggs, complete with crispy, lacy edges. Break the yolks for a gooey topping to these Gruyere-and-ham-laden waffles.",
+      "cost": 8,
+      "featured": false,
+    },
+    {
+      "name": "Portuguese Sweet Bread Waffles",
+      "image": "images/portuguese.jpg",
+      "description": "A Favorite in any Portuguese Vovoas' kitchen! Sweet, soft creamy sweet bread dough baked to perfection in an adorable heart-shaped waffle stack, and layered with whipped cream cheese, cinnamon and berries.",
+      "cost": 8,
+      "featured": false,
+    },
+
+  ]
+}
